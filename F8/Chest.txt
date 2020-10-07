@@ -1,0 +1,7 @@
+This chest contains one of 2 effects:
+
+- Prevent another team from submitting answers for 15 minutes
+or
+- Prevent your team from submitting answers for 15 minutes
+
+Open?
