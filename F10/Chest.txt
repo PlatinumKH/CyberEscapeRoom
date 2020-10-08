@@ -1,0 +1,7 @@
+This chest contains one of 2 effects:
+
+- Give 1 RAM point to another team
+or
+- Steal 1 RAM point from another team
+
+Open?
