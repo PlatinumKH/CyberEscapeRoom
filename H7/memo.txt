@@ -1,0 +1,23 @@
+Hey, Motherbird.
+
+So, uh, don't mean to anger you but...little problem!
+
+I've stored my codeword and it's locked up tight in my cyber chest 
+But...I've forgotten the code to my codeword and haven't been able to crack it.
+
+Unfortunately, I have fried my systems and locked myself out so won't be able to open it for a bit.
+
+However, I managed to do some analysis on given inputs:
+
+6 8 2 - One number is correct and well placed
+
+6 1 4 - One number is correct but wrong placed
+
+2 0 6 - Two numbers are correct but wrong placed
+
+7 3 8 - Nothing is correct
+
+7 8 0 - One number is correct but wrong placed
+
+Could you pass it on to one of the other hackers to crack for me?
+Thanks, man!
