@@ -1,0 +1,5 @@
+Three coworkers would like to know their average salary.
+
+However, they are self-conscious and don't want to tell each other their own salaries.
+
+How can they find their average salary, without disclosing their own salaries?
