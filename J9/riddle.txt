@@ -1,0 +1,19 @@
+For this riddle, you have to find the odd ones out in the groups of words. 
+BUT WAIT! There's a catch. Each group of words has TWO words which do not belong. 
+Can you find them both?
+
+EXAMPLE:
+
+Lily - Jane - Tulip - Rose
+
+Jane does not belong as it's the only one which is not a flower.
+
+Tulip also does not belong because it's the only one which is not a girl's name.
+
+You're on your own for the rest!
+
+1. Dodge - Ford - Lincoln - Hoover
+
+2. King - Earl - Knight - Bishop
+
+3. Yellow - Green - Dead - Black
