@@ -1,0 +1,8 @@
+This chest contains one of 2 effects:
+
+- 1 RAM point
+or
+- 10 RAM point
+or
++ 2 RAM points
+Open?
